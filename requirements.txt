@@ -1,0 +1,16 @@
+discord.py
+crewai
+python-dotenv
+requests
+pdfplumber
+beautifulsoup4
+duckduckgo_search
+python-docx
+openpyxl
+psutil
+pyperclip
+playwright
+python-whois
+dnspython
+phonenumbers
+Pillow

@@ -1,0 +1,32 @@
+# ElsaWin-Daten ausschließen (Datenbanken, extrahierte XMLs und temporäre Ordner)
+elsawin/GolfPlus_CAXA_Data/
+elsawin/GolfPlus_CAXA_NBW_Data/
+elsawin/balls/
+elsawin/extracted_xmls/
+elsawin/temp_extract/
+elsawin/temp_index_extract/
+elsawin/temp_test/
+elsawin/temp_test_2/
+elsawin/*.db
+
+# Discord Backups / private Kanäle ausschließen
+assets/
+attachments/
+
+# Log-Dateien ausschließen
+*.log
+logs/
+
+# Python & System-Artefakte ausschließen
+venv/
+.venv/
+__pycache__/
+*.pyc
+.vscode/
+
+# Sensible Dateien, IDs und Prompts ausschließen
+.env
+last_user_id.txt
+prompts/
+task_logbook/
+states.json

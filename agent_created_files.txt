@@ -1,0 +1,6 @@
+C:\Users\iboer\Desktop\janni_ist_sexy.txt
+C:\Users\iboer\gemma_agent\prompts\personal_agent_prompt.txt
+C:\Users\iboer\gemma_test_run\test.txt
+C:\Users\iboer\gemma_test_run\tabelle.xlsx
+C:\Users\iboer\gemma_agent\attachments\screenshot_20260607_012047.png
+C:\Users\iboer\magic_packet_listener.py
